@@ -1,0 +1,4 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+192.168.56.2 haproxynode
+192.168.56.3 nginx1node
+192.168.56.4 nginx2node
