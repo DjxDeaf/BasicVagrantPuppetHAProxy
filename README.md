@@ -1,4 +1,4 @@
-BasicVagrantPuppetHAProxy
+Basic Environment - Vagrant + Puppet + HAProxy
 =========================
 
 Components:
